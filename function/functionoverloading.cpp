@@ -4,7 +4,7 @@ void fun(){
     cout<<"Hi"<<endl;
 
 }
-void fun(int x){
+void fun(int x=8){
     cout<<"Good Morning"<<endl;
 }
 void fun(int x,int y){
